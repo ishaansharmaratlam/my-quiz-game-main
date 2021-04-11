@@ -1,1 +1,2 @@
-# my-quiz-game-main
+# MYQUIZGAME
+My Quiz Game
